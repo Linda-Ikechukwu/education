@@ -1,0 +1,15 @@
+      em{
+            font-weight:bold;
+            color:black;
+            }
+          h1{
+             font-family:tahoma, helvetica, sans-serif;
+            }  
+          
+          p{font-size: 20pt; color: deepskyblue;} 
+          .purpleText{color:purple;}
+          #underline1{
+            text-decoration:underline;
+          }
+          a.nodec{text-decoration:none}
+           a:hover{text-decoration:underline;}
